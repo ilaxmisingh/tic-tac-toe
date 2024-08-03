@@ -1,5 +1,5 @@
-# PRODIGY_WD_03
-# Tic Tac Toe Game - Prodigy Infotech Internship Task 3
+Simple TIC-TAC-TOE Game:
+Live demo --"https://tic-tac-toegame-85ba.vercel.app/"
 
 ## Overview
 
@@ -7,15 +7,15 @@ This repository houses the implementation of a Tic Tac Toe game, developed as pa
 
 ## Features
 
-- **User-Friendly Interface**: An intuitive and easy-to-use interface for an enjoyable gaming experience.
-- **Two-Player Mode**: Engage in a local two-player match.
-- **Responsive Design**: The game adapts to various screen sizes, ensuring accessibility across devices.
+- User-Friendly Interface: An intuitive and easy-to-use interface for an enjoyable gaming experience.
+- Two-Player Mode: Engage in a local two-player match.
+- Hover effect
 
 ## Technologies Used
 
-- **HTML**: Defines the structure of the webpage.
-- **CSS**: Styles the webpage for an aesthetically pleasing look and feel.
-- **JavaScript**: Implements the game logic and handles user interactions.
+- HTML: Defines the structure of the webpage.
+- CSS: Styles the webpage for an aesthetically pleasing look and feel.
+- JavaScript: Implements the game logic and handles user interactions.
 
 ## Getting Started
 
